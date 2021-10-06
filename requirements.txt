@@ -1,0 +1,7 @@
+pandas
+transformers
+sklearn
+simpletransformers
+torch 
+torchvision 
+torchaudio
